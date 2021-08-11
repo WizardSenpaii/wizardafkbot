@@ -1,0 +1,9 @@
+{
+	"ip":"w1zardsmp.aternos.me",
+	"port": 25565,
+	"name": "wizardafkbot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register wizardsenpai123 wizardsenpai123 ",
+	"login-cmd":"/login wizardsenpai123"
+}
